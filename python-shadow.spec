@@ -18,7 +18,7 @@ Provides: %{oname}
 
 %description
 This is a module to allow access to the shadow password file.  It also includes
-md5_crypt, which implemtns the md5_crypt function used to encrypt passwords
+md5_crypt, which implements the md5_crypt function used to encrypt passwords
 in the shadow password file.
 				
 %prep
