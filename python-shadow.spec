@@ -10,7 +10,6 @@ Release: %{release}
 Source: %oname-%{version}.tar.gz
 License: GPL
 Group: Development/Python
-BuildRoot: %{_tmppath}/%{name}-buildroot
 Url: http://www.twistedmatrix.com/users/z3p/files/
 BuildRequires: python-devel
 Obsoletes: %{oname}
