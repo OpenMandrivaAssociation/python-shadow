@@ -1,7 +1,7 @@
 %define oname pyshadow
 %define name python-shadow
 %define version 0.2
-%define release %mkrel 4
+%define release %mkrel 5
 
 Summary: Python wrapper for shadow password file
 Name: %{name}
